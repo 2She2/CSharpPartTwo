@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DurankulakNumbers", "01.DurankulakNumbers\01.DurankulakNumbers.csproj", "{3D329280-D0C5-460F-A8CC-6D5F9BE949DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JoroTheRabbit", "02.JoroTheRabbit\02.JoroTheRabbit.csproj", "{4ABEA900-749D-479A-8C90-89DAB7BBCDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Brackets", "04.Brackets2\04.Brackets.csproj", "{9CA00AEC-CFED-4D23-8712-0DA12F16BDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D329280-D0C5-460F-A8CC-6D5F9BE949DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D329280-D0C5-460F-A8CC-6D5F9BE949DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D329280-D0C5-460F-A8CC-6D5F9BE949DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D329280-D0C5-460F-A8CC-6D5F9BE949DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABEA900-749D-479A-8C90-89DAB7BBCDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABEA900-749D-479A-8C90-89DAB7BBCDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABEA900-749D-479A-8C90-89DAB7BBCDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABEA900-749D-479A-8C90-89DAB7BBCDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA00AEC-CFED-4D23-8712-0DA12F16BDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA00AEC-CFED-4D23-8712-0DA12F16BDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA00AEC-CFED-4D23-8712-0DA12F16BDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA00AEC-CFED-4D23-8712-0DA12F16BDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
